@@ -11,6 +11,18 @@
         android:layout_height="wrap_content"
         android:text="Seleccionar imagen" />
 
+    <Button
+        android:id="@+id/btnCaptureThumbnail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Capturar Thumbnail" />
+
+    <Button
+        android:id="@+id/btnCaptureFullSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Capturar Foto Full-Size" />
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="match_parent"
