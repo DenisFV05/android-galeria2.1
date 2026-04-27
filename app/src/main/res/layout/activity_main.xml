@@ -28,6 +28,6 @@
         android:layout_width="match_parent"
         android:layout_height="300dp"
         android:layout_marginTop="16dp"
-        android:scaleType="centerCrop"
-        android:background="#DDDDDD" />
+        android:background="#DDDDDD"
+        android:scaleType="centerCrop" />
 </LinearLayout>
